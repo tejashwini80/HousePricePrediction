@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 # Sample
 HousePricePrediction/HousePricePrediction/Linear Regression ML Implementation.ipynb
+
 # C extensions
 *.so
 
