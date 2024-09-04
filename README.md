@@ -12,4 +12,5 @@
  1.  python -m venv name
  2.  name/scripts/activate
  
-  
+ clear
+ 
